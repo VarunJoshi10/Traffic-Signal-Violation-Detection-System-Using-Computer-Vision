@@ -3,10 +3,10 @@ This Model captures the picture of vehicals which violates the rules and can be 
 This Model detects Violations like Red light running violation and Triple Seat Violation Detection.
 
 ## Technologies Used
-- Roboflow
-- OpenCV
-- Yolov8
-- CVZone
+- [Roboflow](https://app.roboflow.com/)
+- [OpenCV](https://opencv.org/)
+- [Yolov8](https://github.com/ultralytics/ultralytics)
+- [CVZone](https://github.com/cvzone/cvzone)
 
 ## Algorithms used
 - Simple Online Real-time Tracking (SORT) Technique: SORT is a computer vision tracking algorithm for tracking objects while assigning an ID to each object.
